@@ -1,0 +1,6 @@
+train: D:\luna\luna_dataset\train
+val: D:\luna\luna_dataset\val
+test: D:\luna\luna_dataset\test
+
+names:
+  0: Pulmonary nodules
